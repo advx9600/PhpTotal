@@ -1,0 +1,1 @@
+fsutil hardlink create  F:\xampp\htdocs\index.php index.php
