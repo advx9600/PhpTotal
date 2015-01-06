@@ -21,8 +21,8 @@
 	</div>
 	<?php
 	$commnets=array(
-				"系统烧写文件下载","pro/ImgUpgrade/jQuery-File-Upload/",
-				"apk文件下载","pro/AppUpgrade/",
+				/* "系统烧写文件下载","pro/ImgUpgrade/jQuery-File-Upload/" */
+				"apk文件下载","pro/ImgUpgrade/app.php",												
 				"文件上传","pro/zothers/file_upload_to_desk_.php",
 				"temp下载","pro/zothers/file_download_to_mobile.php",
 	);

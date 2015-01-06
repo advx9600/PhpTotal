@@ -23,6 +23,7 @@ if (isset($_FILES['userfile']['tmp_name'])){
 <html>
 <head>
 <meta http-equiv="content-type" content="charset=utf-8" />
+<meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="stylesheet" href="foundation/css/normalize.css">
 <link rel="stylesheet" href="foundation/css/foundation.css">
 <!-- If you are using the gem version, you need this only -->
